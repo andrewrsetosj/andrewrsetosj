@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello, I'm Andrew Seto 👋
+
+Software Engineer @ IBM | USC '26 (CS & Business)
+
+---
+
+### About Me
+- 🌊 **Interests & Hobbies:** Hiking, scuba diving, golfing, and calisthenics
 
 <!--
 **andrewrsetosj/andrewrsetosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
